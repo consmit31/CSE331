@@ -1,8 +1,7 @@
-# Data Structures and Algorithms
-
-This repo contains several examples of projects completed in a data structures and algorithms course.  
+# CSE 471
 
 Each folder contains 3 items 
- - The specifactions of each project as recieved from the course instructor
- - Test cases for the solution as recieved from the course instructor
- - A written solution for the problems given
+ - The specifactions of each project
+ - Test cases for the solution
+ - Solution that passes the test cases
+
